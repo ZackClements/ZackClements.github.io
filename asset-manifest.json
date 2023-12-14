@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/www.ZackClements.github.io/ZackClements.github.io/static/js/main.82e43cd6.js",
-    "static/js/256.808d17a5.js": "/www.ZackClements.github.io/ZackClements.github.io/static/js/256.808d17a5.js",
-    "favicon.ico": "/www.ZackClements.github.io/ZackClements.github.io/favicon.ico",
-    "index.html": "/www.ZackClements.github.io/ZackClements.github.io/index.html",
-    "favicon-32.png": "/www.ZackClements.github.io/ZackClements.github.io/favicon-32.png",
-    "favicon-16.png": "/www.ZackClements.github.io/ZackClements.github.io/favicon-16.png",
-    "manifest.json": "/www.ZackClements.github.io/ZackClements.github.io/manifest.json",
-    "serve.json": "/www.ZackClements.github.io/ZackClements.github.io/serve.json",
-    "main.82e43cd6.js.map": "/www.ZackClements.github.io/ZackClements.github.io/static/js/main.82e43cd6.js.map",
-    "256.808d17a5.js.map": "/www.ZackClements.github.io/ZackClements.github.io/static/js/256.808d17a5.js.map"
+    "main.js": "/www.ZackClements.github.io/static/js/main.82e43cd6.js",
+    "static/js/256.808d17a5.js": "/www.ZackClements.github.io/static/js/256.808d17a5.js",
+    "favicon.ico": "/www.ZackClements.github.io/favicon.ico",
+    "index.html": "/www.ZackClements.github.io/index.html",
+    "favicon-32.png": "/www.ZackClements.github.io/favicon-32.png",
+    "favicon-16.png": "/www.ZackClements.github.io/favicon-16.png",
+    "manifest.json": "/www.ZackClements.github.io/manifest.json",
+    "serve.json": "/www.ZackClements.github.io/serve.json",
+    "main.82e43cd6.js.map": "/www.ZackClements.github.io/static/js/main.82e43cd6.js.map",
+    "256.808d17a5.js.map": "/www.ZackClements.github.io/static/js/256.808d17a5.js.map"
   },
   "entrypoints": [
     "static/js/256.808d17a5.js",
