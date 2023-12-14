@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/www.ZackClements.github.io/snakefantasy/static/js/main.82e43cd6.js",
+    "static/js/256.808d17a5.js": "/www.ZackClements.github.io/snakefantasy/static/js/256.808d17a5.js",
+    "favicon.ico": "/www.ZackClements.github.io/snakefantasy/favicon.ico",
+    "index.html": "/www.ZackClements.github.io/snakefantasy/index.html",
+    "favicon-32.png": "/www.ZackClements.github.io/snakefantasy/favicon-32.png",
+    "favicon-16.png": "/www.ZackClements.github.io/snakefantasy/favicon-16.png",
+    "manifest.json": "/www.ZackClements.github.io/snakefantasy/manifest.json",
+    "serve.json": "/www.ZackClements.github.io/snakefantasy/serve.json",
+    "main.82e43cd6.js.map": "/www.ZackClements.github.io/snakefantasy/static/js/main.82e43cd6.js.map",
+    "256.808d17a5.js.map": "/www.ZackClements.github.io/snakefantasy/static/js/256.808d17a5.js.map"
+  },
+  "entrypoints": [
+    "static/js/256.808d17a5.js",
+    "static/js/main.82e43cd6.js"
+  ]
+}
